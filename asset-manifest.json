@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cookie-clicker/static/css/main.a617e044.chunk.css",
-    "main.js": "/cookie-clicker/static/js/main.5b539ad6.chunk.js",
-    "main.js.map": "/cookie-clicker/static/js/main.5b539ad6.chunk.js.map",
+    "main.js": "/cookie-clicker/static/js/main.d86739a9.chunk.js",
+    "main.js.map": "/cookie-clicker/static/js/main.d86739a9.chunk.js.map",
     "runtime-main.js": "/cookie-clicker/static/js/runtime-main.d6ba7910.js",
     "runtime-main.js.map": "/cookie-clicker/static/js/runtime-main.d6ba7910.js.map",
     "static/js/2.4ccae640.chunk.js": "/cookie-clicker/static/js/2.4ccae640.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d6ba7910.js",
     "static/js/2.4ccae640.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.5b539ad6.chunk.js"
+    "static/js/main.d86739a9.chunk.js"
   ]
 }
